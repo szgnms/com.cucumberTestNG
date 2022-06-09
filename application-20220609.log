@@ -1,0 +1,5 @@
+2022-06-09 15:29:11.946 [main] DEBUG runners.Runner - debug
+2022-06-09 15:29:11.950 [main] INFO  runners.Runner - info
+2022-06-09 15:29:11.950 [main] WARN  runners.Runner - warn
+2022-06-09 15:29:11.951 [main] ERROR runners.Runner - error
+2022-06-09 15:29:11.951 [main] FATAL runners.Runner - fatal

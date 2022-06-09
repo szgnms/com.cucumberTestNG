@@ -1,0 +1,3 @@
+2022-06-09 21:08:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
