@@ -13,26 +13,27 @@ import java.util.concurrent.TimeUnit;
 
 public class Driver {
 
-    private  Driver(){
+    private Driver() {
 
     }
+
     static WebDriver driver;
 
-    public static WebDriver getDriver(){
+    public static WebDriver getDriver() {
 
-        if (driver==null) {
-            switch (ConfigReader.getProperty("browser")){
-                case "chrome" :
+        if (driver == null) {
+            switch (ConfigReader.getProperty("browser")) {
+                case "chrome":
                     WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver();
                     break;
-                case "safari" :
+                case "safari":
                     WebDriverManager.edgedriver().setup();
-                    driver=new SafariDriver();
+                    driver = new SafariDriver();
                     break;
-                case "firefox" :
+                case "firefox":
                     WebDriverManager.firefoxdriver().setup();
-                    driver=new FirefoxDriver();
+                    driver = new FirefoxDriver();
                     break;
                 case "headless-chrome":
                     WebDriverManager.chromedriver().setup();
@@ -46,17 +47,26 @@ public class Driver {
 
 
             driver.manage().window().maximize();
-            driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
         }
         return driver;
     }
 
-    public static void closeDriver(){
-        if (driver!=null){
+    public static void closeDriver() {
+        if (driver != null) {
             driver.close();
-           driver=null;
+            driver = null;
         }
 
     }
 
+    public static void quitDriver() {
+        if (driver != null) {
+            driver.quit();
+            driver = null;
+        }
+
+
+    }
 }

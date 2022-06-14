@@ -16,6 +16,8 @@ public class AmazonStepDefinitions {
     @Given("kullanici amazon anasayfasinda")
     public void kullanici_amazon_anasayfasinda() {
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
+
+
     }
     @Then("kullanici Nutella icin arama yapar")
     public void kullanici_nutella_icin_arama_yapar() {
@@ -43,6 +45,7 @@ public class AmazonStepDefinitions {
         String actualAramaSonucStr= amazonPage.aramaSonucElementi.getText();
 
         Assert.assertTrue(actualAramaSonucStr.contains(arananKelime));
+
     }
 
     @And("kullanici iphone icin arama yapar")
@@ -70,11 +73,6 @@ public class AmazonStepDefinitions {
         Assert.assertTrue(actualAramaSonucStr.contains(kelime));
     }
 
-    @Given("kullanici {string} sayfasinda")
-    public void kullaniciSayfasinda(String Url) {
-        Driver.getDriver().get(ConfigReader.getProperty(Url));
-    }
-
     @And("url`nin {string} icerdigini test eder")
     public void urlNinIcerdiginiTestEder(String kelime) {
         Assert.assertTrue(Driver.getDriver().getCurrentUrl().contains(kelime));
@@ -88,5 +86,10 @@ public class AmazonStepDefinitions {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    @Given("kullanici {string} anasayfasinda")
+    public void kullaniciAnasayfasinda(String Url) {
+        Driver.getDriver().get(ConfigReader.getProperty(Url));
     }
 }

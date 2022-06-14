@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ArtOfTestingTestSuite" verbose="1" >
+    <test name="parallelExecutionTests" >
+        <classes>
+            <class name="runners.Runner" />
+        </classes>
+    </test>
+</suite>

@@ -1,3 +1,1424 @@
-2022-06-09 21:08:44 INFO  Utils:112 - [TestNG] Running:
+2022-06-10 00:25:13 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
 
+2022-06-10 00:25:14 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:25:14 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:25:48 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 00:25:48 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:25:48 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:25:50 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 00:47:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-10 00:47:06 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2022-06-10 00:47:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-10 00:47:31 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:31 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:31 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:31 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:31 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:45 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 00:47:45 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:47:45 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:47:48 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 00:56:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-10 00:56:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:43 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 00:56:43 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 00:56:43 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 00:56:46 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-10 23:52:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-10 23:52:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 23:52:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 23:53:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-10 23:53:49 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 23:53:50 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 23:54:29 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-10 23:54:29 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-10 23:54:30 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-11 00:12:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 00:12:32 WARN  Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2022-06-11 00:58:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:24:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:24:24 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:24:24 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:27:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:27:15 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:27:15 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:43:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:43:30 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:43:30 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:44:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:45:00 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:45:00 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:39:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 02:39:13 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:39:13 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:39:13 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:39:13 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:39:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:39:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:39:27 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-11 02:40:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 02:40:28 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:40:28 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:40:28 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:40:28 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:40:43 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-11 02:42:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 02:42:37 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:42:37 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 02:42:37 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:42:37 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 02:42:53 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-11 03:00:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 03:00:46 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 03:00:46 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 03:00:46 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 03:00:46 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:14:30 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:14:31 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:14:34 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:15:34 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:15:34 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:15:37 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:15:47 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:15:47 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:15:49 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:18:59 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:18:59 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:19:01 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:22:27 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:22:27 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:22:30 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:23:35 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:23:35 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:23:38 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:26:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:26:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:26:14 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:27:08 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:27:08 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:27:10 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:30:02 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:30:02 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:30:04 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:32:46 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:32:46 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:32:48 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:35:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:35:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:35:27 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:36:44 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:36:44 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:36:46 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:38:51 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:38:51 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:38:53 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:39:47 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:39:47 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:39:49 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:42:44 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:42:44 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:42:46 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:48:49 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:48:50 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:48:52 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:49:40 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:49:40 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:49:42 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:50:15 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:50:15 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:50:18 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:51:17 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:51:17 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:51:19 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:51:56 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:51:56 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:51:58 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:53:38 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:53:38 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:53:41 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:54:48 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:54:48 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:54:50 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:55:26 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:55:26 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:55:28 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 00:58:21 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 00:58:21 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 00:58:24 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:01:45 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:01:45 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:01:47 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:03:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:03:03 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:03:03 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:06:14 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:06:14 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:06:17 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:07:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:07:28 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:07:28 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:07:30 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:10:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:10:25 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:10:25 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:10:28 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:11:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:11:38 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:11:38 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:11:40 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:12:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:12:04 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:12:04 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:12:07 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:12:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:12:40 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:12:40 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:12:42 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:13:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:13:08 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:13:08 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:13:10 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:13:59 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:13:59 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:14:01 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:36:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:36:08 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:36:08 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:36:11 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:38:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:38:08 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:38:08 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:38:10 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:42:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 01:42:08 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:42:08 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:42:10 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:43:47 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:43:47 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:43:49 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:44:35 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:44:35 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:44:37 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:46:38 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:46:38 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:46:41 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 01:47:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 01:47:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 01:47:35 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 02:16:23 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:16:23 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:17:10 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 02:17:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 02:17:55 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:17:55 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:18:47 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 02:33:57 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:33:57 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:34:55 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:34:55 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:44:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:44:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:46:02 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:46:02 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 02:47:23 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 02:47:23 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:15:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:15:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:15:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:15:12 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:15:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:15:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:15:12 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:17:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:17:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:17:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:17:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:17:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:17:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:17:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:18:26 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:18:26 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:18:28 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 03:19:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:19:50 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:19:50 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:19:50 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:19:50 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:19:50 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:19:50 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:23:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:23:44 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:23:44 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:23:44 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:23:44 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:23:44 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:23:44 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:26:08 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 03:27:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:27:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:27:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:27:32 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:27:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:27:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:27:32 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:29:55 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 03:33:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:33:41 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:33:41 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:33:41 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:33:41 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:33:41 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:33:41 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:38:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 03:38:04 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:38:04 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:38:04 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 03:38:04 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:38:04 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 03:38:04 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:00:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:00:57 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:00:57 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:00:57 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:00:57 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:00:57 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:00:57 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:06:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:06:59 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:06:59 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:06:59 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:06:59 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:06:59 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:06:59 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:07:22 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:13:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:13:27 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:13:27 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:13:27 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:13:27 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:13:27 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:13:27 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:14:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:14:19 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:14:19 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:15:14 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:15:14 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:16:03 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:16:03 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:17:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:17:11 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:17:11 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:17:11 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:17:11 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:17:14 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:17:14 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:17:14 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:17:17 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:18:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:18:21 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:18:21 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:18:21 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:18:21 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:18:28 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:18:28 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:18:28 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:18:29 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:20:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:20:52 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:20:52 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:20:52 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:20:52 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:20:52 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:20:52 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:21:13 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:21:13 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:21:13 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:21:17 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-06-12 04:31:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:31:29 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:31:29 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:31:29 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:31:29 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:31:29 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:31:29 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:32:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:32:43 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:32:43 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:32:43 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:32:43 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:32:43 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:32:43 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:40:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:40:56 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:40:56 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:40:56 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-12 04:40:56 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:40:56 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:40:56 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-12 04:41:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:41:33 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:41:33 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:41:33 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:41:33 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:41:33 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:41:33 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:43:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:43:19 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:43:19 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:43:19 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:43:20 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:43:20 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:43:20 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:58:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 04:58:53 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:58:53 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:58:53 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 04:58:54 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:58:54 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 04:58:54 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 05:05:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-12 05:05:30 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 05:05:30 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 05:05:30 INFO  WebDriverManager:1459 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-06-12 05:05:31 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 05:05:31 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-06-12 05:05:31 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\ms\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
