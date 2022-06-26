@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="ArtOfTestingTestSuite" verbose="1" >
-    <test name="parallelExecutionTests" >
+<suite name="Test-method Suite" parallel="tests" thread-count="1" >
+    <test name="Test-method test"  >
         <classes>
             <class name="runners.Runner" />
         </classes>

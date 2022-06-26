@@ -1,12 +1,10 @@
 package stepDefinitions;
 
-import com.google.common.base.Supplier;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
-import org.openqa.selenium.By;
+
 import org.openqa.selenium.WebElement;
 import pages.GuruPage;
-import utilities.Driver;
+
 
 import java.util.ArrayList;
 import java.util.List;

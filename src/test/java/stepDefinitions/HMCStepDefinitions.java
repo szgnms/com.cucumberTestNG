@@ -1,7 +1,7 @@
 package stepDefinitions;
 
 import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
+
 import io.cucumber.java.en.Then;
 
 import org.testng.Assert;
@@ -10,6 +10,7 @@ import utilities.ConfigReader;
 
 public class HMCStepDefinitions {
     HMCPage hmcPage = new HMCPage();
+    ConfigReader configReader = new ConfigReader();
 
     @Then("Log in yazisina tiklar")
     public void log_in_yazisina_tiklar() {
@@ -18,12 +19,12 @@ public class HMCStepDefinitions {
 
     @Then("gecerli username girer")
     public void gecerli_username_girer() {
-        hmcPage.usernameKutusu.sendKeys(ConfigReader.getProperty("HMCValidUsername"));
+        hmcPage.usernameKutusu.sendKeys(configReader.getProperty("HMCValidUsername"));
     }
 
     @Then("gecerli password girer")
     public void gecerli_password_girer() {
-        hmcPage.passwordKutusu.sendKeys(ConfigReader.getProperty("HMCValidPassword"));
+        hmcPage.passwordKutusu.sendKeys(configReader.getProperty("HMCValidPassword"));
     }
 
     @Then("Login butonuna basar")
@@ -38,7 +39,7 @@ public class HMCStepDefinitions {
 
     @And("gecersiz password girer")
     public void gecersizPasswordGirer() {
-        hmcPage.passwordKutusu.sendKeys(ConfigReader.getProperty("HMCWrongPassword"));
+        hmcPage.passwordKutusu.sendKeys(configReader.getProperty("HMCWrongPassword"));
     }
 
     @Then("sayfaya giris yapilamadigini test eder")
@@ -48,7 +49,7 @@ public class HMCStepDefinitions {
 
     @And("gecersiz username girer")
     public void gecersizUsernameGirer() {
-        hmcPage.usernameKutusu.sendKeys(ConfigReader.getProperty("HMCWrongUsername"));
+        hmcPage.usernameKutusu.sendKeys(configReader.getProperty("HMCWrongUsername"));
     }
 
     @And("gecersiz {string} girer")

@@ -20,4 +20,7 @@ public class HerOkuPage {
 
     @FindBy (id = "elements")
     public WebElement del;
+
+    @FindBy(xpath = "//input[@id='DTE_Field_first_name']")
+    public WebElement firstname;
 }

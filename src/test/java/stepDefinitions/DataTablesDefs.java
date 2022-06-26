@@ -50,7 +50,7 @@ Actions actions = new Actions(Driver.getDriver());
     @And("kullanici {int} saniye bekler")
     public void kullaniciSaniyeBekler(int saniye) {
         try {
-            Thread.sleep(saniye*1000);
+            Thread.sleep(saniye* 1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }

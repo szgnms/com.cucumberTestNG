@@ -1,61 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testng-results failed="2" passed="1" skipped="0" total="3">
-    <suite duration-ms="22403" name="io.cucumber.core.plugin.TestNGFormatter">
-        <test duration-ms="22403" name="io.cucumber.core.plugin.TestNGFormatter">
-            <class name="US1001 Amazon Kullanici Amamzon Sayfasinda Arama Yapar">
-                <test-method duration-ms="22106" finished-at="2022-06-12T02:05:51.434119400Z" name="TC01 kullanici amazonda Nutella aratir" started-at="2022-06-12T02:05:29.322691600Z" status="PASS"/>
-                <test-method duration-ms="22094" finished-at="2022-06-12T02:05:51.429089900Z" name="TC02  kullanici amazonda Java aratir" started-at="2022-06-12T02:05:29.321690800Z" status="FAIL">
-                    <exception class="org.openqa.selenium.StaleElementReferenceException">
-                        <message><![CDATA[Given kullanici amazon anasayfasinda........................................passed
-Then kullanici Java icin arama yapar........................................failed
-And sonuclarin Java icerdigini test eder....................................skipped
-]]></message>
-                        <full-stacktrace><![CDATA[org.openqa.selenium.StaleElementReferenceException: The element reference of <input id="twotabsearchtextbox" class="nav-input nav-progressive-attribute" name="field-keywords" type="text"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
-For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
-Build info: version: '4.1.4', revision: '535d840ee2'
-System info: host: 'SZGN', ip: '10.10.1.170', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [90ddbc43-0196-4e0e-8938-bf298fe303cf, sendKeysToElement {id=b4c9f684-367f-4234-9b9f-85ae5c7083b8, value=[Ljava.lang.CharSequence;@5735db21}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 101.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220526203855, moz:debuggerAddress: localhost:53585, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 16392, moz:profile: C:\Users\ms\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:53585/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Element: [[FirefoxDriver: firefox on WINDOWS (90ddbc43-0196-4e0e-8938-bf298fe303cf)] -> id: twotabsearchtextbox]
-Session ID: 90ddbc43-0196-4e0e-8938-bf298fe303cf
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:107)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
-	at jdk.proxy2/jdk.proxy2.$Proxy30.sendKeys(Unknown Source)
-	at stepDefinitions.AmazonStepDefinitions.kullanici_java_icin_arama_yapar(AmazonStepDefinitions.java:39)
-	at ✽.kullanici Java icin arama yapar(file:///C:/Users/ms/Documents/GitHub/com.cucumberTestNG/src/test/resources/features/US1001_amazonSearch.feature:15)
-]]></full-stacktrace>
-                    </exception>
-                </test-method>
-                <test-method duration-ms="22099" finished-at="2022-06-12T02:05:51.429089900Z" name="TC03 kullanici iphone aratir" started-at="2022-06-12T02:05:29.321690800Z" status="FAIL">
-                    <exception class="org.openqa.selenium.StaleElementReferenceException">
-                        <message><![CDATA[When kullanici amazon anasayfasinda.........................................passed
-And kullanici iphone icin arama yapar.......................................failed
-Then sonuclarin iphone icerdigini test eder.................................skipped
+<testng-results failed="1" passed="0" skipped="0" total="1">
+    <suite duration-ms="19149" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="19149" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="US1010 herokuapp Delete testi">
+                <test-method duration-ms="18536" finished-at="2022-06-26T17:41:09.102495300Z" name="TC15 herokuapp'dan delete butonu calismali" started-at="2022-06-26T17:40:50.527519900Z" status="FAIL">
+                    <exception class="org.openqa.selenium.NoSuchElementException">
+                        <message><![CDATA[Given kullanici "herokuappUrl" anasayfasinda................................passed
+And add element butonuna basar..............................................passed
+Then Delete butonu gorunur oluncaya kadar bekler............................passed
+And Delete butonunun gorunur oldugunu test eder.............................passed
+Then Delete butonuna basar..................................................passed
+And Delete butonunun gorunmedigini test eder................................failed
 And sayfayi kapatir.........................................................skipped
 ]]></message>
-                        <full-stacktrace><![CDATA[org.openqa.selenium.StaleElementReferenceException: The element reference of <input id="twotabsearchtextbox" class="nav-input nav-progressive-attribute" name="field-keywords" type="text"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
-For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
-Build info: version: '4.1.4', revision: '535d840ee2'
-System info: host: 'SZGN', ip: '10.10.1.170', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [90ddbc43-0196-4e0e-8938-bf298fe303cf, sendKeysToElement {id=b4c9f684-367f-4234-9b9f-85ae5c7083b8, value=[Ljava.lang.CharSequence;@4db27744}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 101.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220526203855, moz:debuggerAddress: localhost:53585, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 16392, moz:profile: C:\Users\ms\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:53585/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Element: [[FirefoxDriver: firefox on WINDOWS (90ddbc43-0196-4e0e-8938-bf298fe303cf)] -> id: twotabsearchtextbox]
-Session ID: 90ddbc43-0196-4e0e-8938-bf298fe303cf
+                        <full-stacktrace><![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='DTE_Field_first_name']"}
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'SZGN', ip: '192.168.1.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [17b165a5a4afdef1b5e91174aaa0ef4c, findElement {using=xpath, value=//input[@id='DTE_Field_first_name']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ms\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64803}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64803/devtoo..., se:cdpVersion: 103.0.5060.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 17b165a5a4afdef1b5e91174aaa0ef4c
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
@@ -65,15 +31,16 @@ Session ID: 90ddbc43-0196-4e0e-8938-bf298fe303cf
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:107)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
-	at jdk.proxy2/jdk.proxy2.$Proxy30.sendKeys(Unknown Source)
-	at stepDefinitions.AmazonStepDefinitions.kullaniciIphoneIcinAramaYapar(AmazonStepDefinitions.java:53)
-	at ✽.kullanici iphone icin arama yapar(file:///C:/Users/ms/Documents/GitHub/com.cucumberTestNG/src/test/resources/features/US1001_amazonSearch.feature:22)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:551)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:369)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.getText(Unknown Source)
+	at stepDefinitions.HerOkuDefs.deleteButonununGorunmediginiTestEder(HerOkuDefs.java:44)
+	at ✽.Delete butonunun gorunmedigini test eder(file:///C:/Users/ms/Documents/GitHub/com.cucumberTestNG/src/test/resources/features/US1010_HerOkuApp.feature:11)
 ]]></full-stacktrace>
                     </exception>
                 </test-method>

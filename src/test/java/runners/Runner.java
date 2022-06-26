@@ -3,7 +3,7 @@ package runners;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-import org.openqa.selenium.WebDriver;
+
 
 import org.testng.annotations.DataProvider;
 
@@ -16,7 +16,7 @@ import org.testng.annotations.DataProvider;
         },
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "(@iphone or @nutella or @java)",
+        tags = "(@heroku)",
         dryRun = false
 )
 
@@ -24,7 +24,7 @@ public class Runner extends AbstractTestNGCucumberTests {
 
 
     @Override
-    @DataProvider(parallel = true)
+    @DataProvider(parallel = false)
     public Object[][] scenarios() {
         return super.scenarios();
     }

@@ -2,13 +2,13 @@ package stepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
-import net.bytebuddy.pool.TypePool;
-import org.openqa.selenium.JavascriptExecutor;
+
+
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
+
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
+
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import pages.GittiGidiyorPage;
@@ -20,7 +20,7 @@ import java.time.Duration;
 
 public class GittiGidiyorStepDefs {
     GittiGidiyorPage gtd = new GittiGidiyorPage();
-    JavascriptExecutor js = (JavascriptExecutor) Driver.getDriver();
+
      String gtdUrl;
      Robot rbt=new Robot();
      Actions act= new Actions(Driver.getDriver());

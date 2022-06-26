@@ -2,14 +2,12 @@ package stepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
-import org.openqa.selenium.Keys;
+
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import pages.WikiPage;
 import utilities.Driver;
 
-import java.awt.*;
-import java.util.List;
 
 public class WikiStepDefs {
     Actions act=new Actions(Driver.getDriver());

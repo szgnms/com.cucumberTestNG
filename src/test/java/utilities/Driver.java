@@ -7,9 +7,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
+
 
 public class Driver {
 
@@ -20,29 +19,26 @@ public class Driver {
     static WebDriver driver;
 
     public static WebDriver getDriver() {
+        ConfigReader configReader = new ConfigReader();
 
         if (driver == null) {
-            switch (ConfigReader.getProperty("browser")) {
-                case "chrome":
-                    WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver();
-                    break;
-                case "safari":
+            switch (configReader.getProperty("browser")) {
+                case "safari" -> {
                     WebDriverManager.edgedriver().setup();
                     driver = new SafariDriver();
-                    break;
-                case "firefox":
+                }
+                case "firefox" -> {
                     WebDriverManager.firefoxdriver().setup();
                     driver = new FirefoxDriver();
-                    break;
-                case "headless-chrome":
+                }
+                case "headless-chrome" -> {
                     WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver(new ChromeOptions().setHeadless(true));
-                    break;
-                default:
+                }
+                default -> {
                     WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver();
-
+                }
             }
 
 

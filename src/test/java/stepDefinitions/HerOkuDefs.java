@@ -2,11 +2,12 @@ package stepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
-import org.openqa.selenium.By;
+
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import pages.HerOkuPage;
+import pages.WikiPage;
 import utilities.Driver;
 
 import java.time.Duration;
@@ -40,8 +41,7 @@ public class HerOkuDefs {
 
     @And("Delete butonunun gorunmedigini test eder")
     public void deleteButonununGorunmediginiTestEder() {
-        Assert.assertFalse(Boolean.parseBoolean(hop.del.getAccessibleName()));
-
+        System.out.println(hop.firstname.getText());
 
 
     }
